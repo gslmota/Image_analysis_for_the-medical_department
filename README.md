@@ -25,7 +25,7 @@ The **colab_notebook** folder contains the python codes used in projects.The oth
 
 * Images Data
 
-![!imgs](https://github.com/gslmota/data_science_applied_to_the_HR_department./blob/main/imgs/cm.png)
+![!imgs](https://github.com/gslmota/Image_analysis_for_the-medical_department/blob/main/imgs/dados.png)
 
 # Test
 
@@ -44,9 +44,9 @@ pip install -r requirements.txt
 
 * Images Results
 
-![!imgs](https://github.com/gslmota/data_science_applied_to_the_HR_department./blob/main/imgs/cm.png)
+![!imgs](https://github.com/gslmota/Image_analysis_for_the-medical_department/blob/main/imgs/result.png)
 
 * Confusion Matrix
 
-![!imgs](https://github.com/gslmota/data_science_applied_to_the_HR_department./blob/main/imgs/cm.png)
+![!imgs](https://github.com/gslmota/Image_analysis_for_the-medical_department/blob/main/imgs/cfm.png)
 
