@@ -50,3 +50,7 @@ pip install -r requirements.txt
 
 ![!imgs](https://github.com/gslmota/Image_analysis_for_the-medical_department/blob/main/imgs/cfm.png)
 
+
+# References:
+* IA Expert Academy: [IA Expert Academy](https://iaexpert.academy/)
+
